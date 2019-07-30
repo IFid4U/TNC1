@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes" Name="ws_chaillot">
+		<Model Expanded="Yes" ID="{483ED618-2E1D-47FF-83C4-51640B618D8D}" Name="chaillot" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="chaillot.prj"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
